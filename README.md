@@ -2,7 +2,8 @@
 
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![image](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://static.wixstatic.com/media/b3ae7c_44c1408d9e894c46920f514df033f75e~mv2_d_1500_1200_s_2.gif)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![image](blob:https://www.pinterest.com/5d0b4402-ce4c-42ad-9c0c-d03b7ae2568e)
 
 
 
